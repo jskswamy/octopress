@@ -1,3 +1,6 @@
 [submodule "source"]
 	path = source
 	url = git@bitbucket.org:jskswamy/octopress.git
+[submodule ".themes/foxslide"]
+	path = .themes/foxslide
+	url = git@github.com:jskswamy/foxslide.git

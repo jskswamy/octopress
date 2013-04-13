@@ -4,3 +4,6 @@
 [submodule ".themes/foxslide"]
 	path = .themes/foxslide
 	url = git@github.com:jskswamy/foxslide.git
+[submodule ".themes/constant-cockles"]
+	path = .themes/constant-cockles
+	url = git://github.com/octopress-themes/constant-cockles.git
